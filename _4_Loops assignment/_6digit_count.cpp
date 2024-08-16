@@ -1,0 +1,3 @@
+/*
+WAP to print total number of digits persent in a given number.
+*/
